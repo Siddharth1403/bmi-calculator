@@ -10,7 +10,7 @@ A **unique, interactive** BMI calculator featuring:
 - 📱 **Mobile-responsive design**  
 
 ## 🚀 Live Demo  
-[Try it here!]https://github.com/Siddharth1403/Bmi.html  
+[Try it here!]https://github.com/Siddharth1403/bmi-calculator  
 
 ## 🛠️ Tech Stack  
 - **HTML5**, **CSS3** (animations, gradients, Flexbox)  
